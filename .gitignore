@@ -1,3 +1,7 @@
 .idea/
 */.idea/
+*/target/
+*/.mvn/
+*/*.log
+
 .DS_Store
